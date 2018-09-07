@@ -41,3 +41,17 @@
 1507973660 /home/hydrogen/Documents/cpp/sfml/GAME/MacroPhage/Shape.h
 	<SFML/Graphics.hpp>
 
+1536330622 source:/home/hydrogen/Documents/cpp/sfml/GAME/git/MacroPhage/MacroPhage/main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Shape.h"
+
+1536330622 /home/hydrogen/Documents/cpp/sfml/GAME/git/MacroPhage/MacroPhage/Shape.h
+	<SFML/Graphics.hpp>
+

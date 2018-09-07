@@ -51,7 +51,7 @@ int main()
 
 
     sf::Font font;
-    font.loadFromFile("/home/hydrogen/Téléchargements/arial.ttf");
+    font.loadFromFile("arial.ttf");
 
         std::cout<<"Lancement du jeu"<<std::endl;//Déclaration
 
