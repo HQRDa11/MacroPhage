@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1507882325 source:/home/hydrogen/Documents/cpp/sfml/GAME/testsfml/main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Shape.h"
+
+1507818707 /home/hydrogen/Documents/cpp/sfml/GAME/testsfml/Shape.h
+	<SFML/Graphics.hpp>
+
+1507972750 source:/home/hydrogen/Documents/cpp/sfml/GAME/Mercure/main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Shape.h"
+
+1507973013 /home/hydrogen/Documents/cpp/sfml/GAME/Mercure/Shape.h
+	<SFML/Graphics.hpp>
+
+1508078027 source:/home/hydrogen/Documents/cpp/sfml/GAME/MacroPhage/main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Shape.h"
+
+1507973660 /home/hydrogen/Documents/cpp/sfml/GAME/MacroPhage/Shape.h
+	<SFML/Graphics.hpp>
+
