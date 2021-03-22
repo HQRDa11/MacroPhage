@@ -20,8 +20,8 @@
 
 /////DECLARATION DES OBJETS//////////
 
-    sf::RenderWindow app;
-    sf::CircleShape ship;
+     sf::RenderWindow app;
+     sf::CircleShape ship;
      sf::CircleShape asteroid;
      sf::RectangleShape medium;
      sf::RectangleShape hard;
@@ -56,7 +56,7 @@ int main()
         std::cout<<"Lancement du jeu"<<std::endl;//Déclaration
 
 //CARACTERES//////////////////////////////
-
+        srand (time(0));
         sf::Text med("MEDIUM", font);
         med.setCharacterSize(25);
         med.setFillColor(sf::Color(255,255,255));
@@ -96,7 +96,7 @@ int main()
 
 ////////ALEATOIRE//////////////////////////////
 
-        srand (time(0));
+
         int rand_Pos = rand() %573+10;
 
 ///////////////////////////////////////////////////
